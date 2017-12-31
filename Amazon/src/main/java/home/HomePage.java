@@ -7,7 +7,7 @@ import org.openqa.selenium.Keys;
 public class HomePage extends CommonAPI{
 
     public void searchInputBox(){
-        typeByCss("#twotabsearchtextbox","Book");
+        typeByCss("#twotabsearchtextbox1","Book");
     }
 
 }

@@ -33,8 +33,8 @@ import java.util.concurrent.TimeUnit;
 public class CommonAPI {
 
     public WebDriver driver = null;
-    public String browserstack_username;
-    public String browserstack_accesskey;
+    public String browserstack_username= "faisalrahman3";
+    public String browserstack_accesskey = "AJaHhoHYx4wm9tpFBeah";
     public String saucelabs_username;
     public String saucelabs_accesskey;
 
@@ -90,6 +90,7 @@ public class CommonAPI {
         cap.setCapability("os", os);
         cap.setCapability("os_version", os_version);
         if(envName.equalsIgnoreCase("Saucelabs")){
+            //resolution for Saucelabs
             driver = new RemoteWebDriver(new URL("http://"+envUsername+":"+envAccessKey+
                     "@ondemand.saucelabs.com:80/wd/hub"), cap);
         }else if(envName.equalsIgnoreCase("Browserstack")) {
@@ -139,7 +140,12 @@ public class CommonAPI {
     public List<String> getTextFromWebElements(String locator){
         List<WebElement> element = new ArrayList<WebElement>();
         List<String> text = new ArrayList<String>();
-        element = driver.findElements(By.cssSelector(locator));
+        try {
+            element = driver.findElements(By.cssSelector(locator));
+        }catch(Exception ex){
+            ex.printStackTrace();
+            element = driver.findElements(By.xpath(locator));
+        }
         for(WebElement web:element){
             text.add(web.getText());
         }
