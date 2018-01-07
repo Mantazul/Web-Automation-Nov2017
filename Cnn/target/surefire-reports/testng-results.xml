@@ -5,16 +5,16 @@
       <![CDATA[Extent Report Directory/Users/peoplentech/IdeaProjects/Web-Automation/Cnn/target/surefire-reports/html]]>
     </line>
   </reporter-output>
-  <suite started-at="2018-01-06T18:20:03Z" name="home.TestHome" finished-at="2018-01-06T18:20:11Z" duration-ms="8150">
+  <suite started-at="2018-01-07T15:59:17Z" name="home.TestHome" finished-at="2018-01-07T16:00:28Z" duration-ms="70620">
     <groups>
     </groups>
-    <test started-at="2018-01-06T18:20:03Z" name="Command line test" finished-at="2018-01-06T18:20:11Z" duration-ms="8150">
+    <test started-at="2018-01-07T15:59:17Z" name="Command line test" finished-at="2018-01-07T16:00:28Z" duration-ms="70620">
       <class name="home.TestHome">
-        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-06T13:20:02Z" name="extentSetup" finished-at="2018-01-06T13:20:03Z" duration-ms="497" status="PASS">
+        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-07T10:59:07Z" name="extentSetup" finished-at="2018-01-07T10:59:17Z" duration-ms="9894" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@2b8d084]]>
+                <![CDATA[org.testng.TestRunner@13047d7d]]>
               </value>
             </param>
           </params>
@@ -24,7 +24,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-06T13:20:03Z" name="setUp" finished-at="2018-01-06T13:20:10Z" duration-ms="7518" status="PASS">
+        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-07T10:59:18Z" name="setUp" finished-at="2018-01-07T11:00:09Z" duration-ms="51674" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-06T13:20:10Z" name="startExtent" finished-at="2018-01-06T13:20:10Z" duration-ms="79" status="PASS">
+        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-07T11:00:09Z" name="startExtent" finished-at="2018-01-07T11:00:09Z" duration-ms="220" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -76,11 +76,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method signature="test1()[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-06T13:20:10Z" name="test1" finished-at="2018-01-06T13:20:10Z" duration-ms="6" status="PASS">
+        <test-method signature="test1()[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-07T11:00:09Z" name="test1" finished-at="2018-01-07T11:00:10Z" duration-ms="175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-06T13:20:10Z" name="afterEachTestMethod" finished-at="2018-01-06T13:20:11Z" duration-ms="538" status="PASS">
+        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-07T11:00:10Z" name="afterEachTestMethod" finished-at="2018-01-07T11:00:28Z" duration-ms="18042" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,11 +91,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-06T13:20:11Z" name="cleanUp" finished-at="2018-01-06T13:20:11Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-07T11:00:28Z" name="cleanUp" finished-at="2018-01-07T11:00:28Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-        <test-method is-config="true" signature="generateReport()[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-06T13:20:11Z" name="generateReport" finished-at="2018-01-06T13:20:11Z" duration-ms="53" status="PASS">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:home.TestHome@35ef1869]" started-at="2018-01-07T11:00:30Z" name="generateReport" finished-at="2018-01-07T11:00:31Z" duration-ms="695" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->
