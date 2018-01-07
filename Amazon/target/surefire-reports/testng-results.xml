@@ -26,16 +26,16 @@
       <![CDATA[SearchPage: submit Search Button]]>
     </line>
   </reporter-output>
-  <suite started-at="2018-01-07T15:55:42Z" name="Amazon Automation Test" finished-at="2018-01-07T15:57:53Z" duration-ms="131351">
+  <suite started-at="2018-01-07T17:15:39Z" name="Amazon Automation Test" finished-at="2018-01-07T17:16:51Z" duration-ms="72159">
     <groups>
     </groups>
-    <test started-at="2018-01-07T15:55:42Z" name="Amazon Home" finished-at="2018-01-07T15:57:53Z" duration-ms="131351">
+    <test started-at="2018-01-07T17:15:39Z" name="Amazon Home" finished-at="2018-01-07T17:16:51Z" duration-ms="72159">
       <class name="search.TestSearch">
-        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:search.TestSearch@2e55dd0c]" started-at="2018-01-07T10:55:40Z" name="extentSetup" finished-at="2018-01-07T10:55:42Z" duration-ms="1961" status="PASS">
+        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:search.TestSearch@59af0466]" started-at="2018-01-07T12:15:38Z" name="extentSetup" finished-at="2018-01-07T12:15:39Z" duration-ms="967" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@6818d900]]>
+                <![CDATA[org.testng.TestRunner@4f8b4bd0]]>
               </value>
             </param>
           </params>
@@ -45,7 +45,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:search.TestSearch@2e55dd0c]" started-at="2018-01-07T10:55:42Z" name="setUp" finished-at="2018-01-07T10:56:58Z" duration-ms="76252" status="PASS">
+        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:search.TestSearch@59af0466]" started-at="2018-01-07T12:15:39Z" name="setUp" finished-at="2018-01-07T12:16:27Z" duration-ms="47832" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,7 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:search.TestSearch@2e55dd0c]" started-at="2018-01-07T10:56:58Z" name="startExtent" finished-at="2018-01-07T10:56:59Z" duration-ms="565" status="PASS">
+        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:search.TestSearch@59af0466]" started-at="2018-01-07T12:16:27Z" name="startExtent" finished-at="2018-01-07T12:16:27Z" duration-ms="159" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -97,7 +97,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method signature="searchItemsTest()[pri:0, instance:search.TestSearch@2e55dd0c]" started-at="2018-01-07T10:56:59Z" name="searchItemsTest" finished-at="2018-01-07T10:57:39Z" duration-ms="39638" status="PASS">
+        <test-method signature="searchItemsTest()[pri:0, instance:search.TestSearch@59af0466]" started-at="2018-01-07T12:16:27Z" name="searchItemsTest" finished-at="2018-01-07T12:16:45Z" duration-ms="18098" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TestSearch: search Items Test]]>
@@ -122,32 +122,26 @@
             </line>
           </reporter-output>
         </test-method> <!-- searchItemsTest -->
-        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:search.TestSearch@2e55dd0c]" started-at="2018-01-07T10:57:39Z" name="afterEachTestMethod" finished-at="2018-01-07T10:57:53Z" duration-ms="14619" status="PASS">
+        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:search.TestSearch@59af0466]" started-at="2018-01-07T12:16:45Z" name="afterEachTestMethod" finished-at="2018-01-07T12:16:51Z" duration-ms="5652" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=searchItemsTest status=SUCCESS method=TestSearch.searchItemsTest()[pri:0, instance:search.TestSearch@2e55dd0c] output=TestSearch: search Items Test]]]>
+                <![CDATA[[TestResult name=searchItemsTest status=SUCCESS method=TestSearch.searchItemsTest()[pri:0, instance:search.TestSearch@59af0466] output=TestSearch: search Items Test]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:search.TestSearch@2e55dd0c]" started-at="2018-01-07T10:57:53Z" name="cleanUp" finished-at="2018-01-07T10:57:53Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:search.TestSearch@59af0466]" started-at="2018-01-07T12:16:51Z" name="cleanUp" finished-at="2018-01-07T12:16:51Z" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-        <test-method is-config="true" signature="generateReport()[pri:0, instance:search.TestSearch@2e55dd0c]" started-at="2018-01-07T10:57:55Z" name="generateReport" finished-at="2018-01-07T10:57:55Z" duration-ms="67" status="PASS">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:search.TestSearch@59af0466]" started-at="2018-01-07T12:16:52Z" name="generateReport" finished-at="2018-01-07T12:16:52Z" duration-ms="30" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->
       </class> <!-- search.TestSearch -->
     </test> <!-- Amazon Home -->
   </suite> <!-- Amazon Automation Test -->
-  <suite started-at="2018-01-07T15:57:55Z" name="Amazon Automation Test (0)" finished-at="2018-01-07T15:57:55Z" duration-ms="0">
-    <groups>
-    </groups>
-    <test started-at="2018-01-07T15:57:55Z" name="Amazon Home" finished-at="2018-01-07T15:57:55Z" duration-ms="0">
-    </test> <!-- Amazon Home -->
-  </suite> <!-- Amazon Automation Test (0) -->
 </testng-results>
