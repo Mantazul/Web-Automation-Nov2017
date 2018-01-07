@@ -12,8 +12,8 @@
     <test name = "Amazon Home">
         <classes>
             <!--<class name="home.SearchMenu"/>-->
-            <class name="home.TestDropDownMenu"/>
-            <class name="search.TestSearch"/>
+            <!--<class name="home.TestDropDownMenu"/>-->
+            <!--<class name="search.TestSearch"/>-->
         </classes>
     </test>
 
