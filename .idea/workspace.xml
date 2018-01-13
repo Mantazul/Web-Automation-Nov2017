@@ -2,44 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de2a4f53-6f2d-4556-aa55-720b1271fb41" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Amazon/data/file1.xls" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/W3schools/W3schools.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/W3schools/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/W3schools/src/main/java/table/TableDataReader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/W3schools/src/test/java/table/ReadTableData.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/main/java/authentication/LogInPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/main/java/authentication/RegistrationPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/main/java/keyword/Features.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/test/java/features/choice/FeatureTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java" afterPath="$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Test/Amazon Home.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Test/Amazon Home.html" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Test/Amazon Home.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Test/Amazon Home.xml" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-search.TestSearch.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-search.TestSearch.xml" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Test/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Test/methods-alphabetical.html" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Test/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Test/methods.html" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Test/testng.xml.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Test/testng.xml.html" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/AmazonExtent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/AmazonExtent-Report/ExtentReport.html" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/TEST-home.TestHome.xml" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/TEST-home.TestHome.xml" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/emailable-report.html" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/home.TestHome.txt" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/home.TestHome.txt" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/home.TestHome/Command line test.html" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/home.TestHome/Command line test.html" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/home.TestHome/Command line test.xml" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/home.TestHome/Command line test.xml" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/index.html" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/junitreports/TEST-home.TestHome.xml" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/junitreports/TEST-home.TestHome.xml" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/home.TestHome/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/home.TestHome/methods-alphabetical.html" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/home.TestHome/methods.html" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/old/home.TestHome/methods.html" />
-      <change beforePath="$PROJECT_DIR$/Cnn/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Cnn/target/surefire-reports/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/CnnExtent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/CnnExtent-Report/ExtentReport.html" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java" afterPath="$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" afterPath="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,31 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AmazonTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SearchPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="23" />
+            <state relative-caret-position="237">
+              <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#534#535#0" expanded="true" />
@@ -92,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemsToBeSearched.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ItemsToBeSearched.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="69" />
+            <state relative-caret-position="352">
+              <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,21 +53,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AmazonBetaTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonBetaTestRunner.xml">
+      <file leaf-file-name="Features.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/keyword/Features.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="924">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogInPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/authentication/LogInPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/W3schools/pom.xml">
+      <file leaf-file-name="RegistrationPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/authentication/RegistrationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="44">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeatureTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/features/choice/FeatureTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -157,16 +140,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="W3SchoolsTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -175,6 +148,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Amazon/src/test/java/features/choice</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -197,7 +178,6 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/home/TestDropDownMenu.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/home/DropDownMenu.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
@@ -210,9 +190,13 @@
         <option value="$PROJECT_DIR$/W3schools/src/test/java/table/ReadTableData.java" />
         <option value="$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml" />
         <option value="$PROJECT_DIR$/W3schools/src/main/java/table/TableDataReader.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/features/choice/FeatureTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/authentication/LogInPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/keyword/Features.java" />
       </list>
     </option>
   </component>
@@ -261,8 +245,8 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="28" />
     <option name="y" value="23" />
     <option name="width" value="1812" />
     <option name="height" value="1009" />
@@ -301,12 +285,6 @@
               <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -330,6 +308,57 @@
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="keyword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="choice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -337,6 +366,11 @@
               <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
               <item name="AmazonExtent-Report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Web-Automation" type="b2602c69:ProjectViewProjectNode" />
@@ -741,7 +775,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="23" width="1812" height="1009" extended-state="0" />
+    <frame x="28" y="23" width="1812" height="1009" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -751,12 +786,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15507726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34685165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34685165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3276414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14624724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14624724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -768,7 +804,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -807,38 +842,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/home/DropDownMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1060,14 +1063,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
@@ -1175,10 +1170,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/authentication/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="237">
+          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#534#535#0" expanded="true" />
@@ -1189,10 +1210,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/authentication/LogInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/features/choice/FeatureTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="69" />
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/keyword/Features.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
