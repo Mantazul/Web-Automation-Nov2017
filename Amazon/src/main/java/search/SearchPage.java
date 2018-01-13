@@ -6,6 +6,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import reporting.TestLogger;
 
+import java.io.IOException;
+
 public class SearchPage extends CommonAPI {
     @FindBy(how = How.CSS, using ="#twotabsearchtextbox")
     public static WebElement searchInputWebElement;
@@ -33,13 +35,15 @@ public class SearchPage extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSearchInputWebElement().clear();
     }
-    public void searchItemsAndSubmitButton(){
+    public void searchItemsAndSubmitButton()throws IOException{
         TestLogger.log(getClass().getSimpleName() + ": " + (new Object(){}.getClass().getEnclosingMethod().getName()));
-        searchFor("Books");
-        submitSearchButton();
-        clearInput();
-        searchFor("Baby");
-        submitSearchButton();
+        ItemsToBeSearched itemsToBeSearched = new ItemsToBeSearched();
+        String [] value = itemsToBeSearched.getDataFromExcelFile();
+        for(int i=0; i<value.length; i++) {
+            searchFor(value[i]);
+            submitSearchButton();
+            clearInput();
+        }
     }
 
 }
